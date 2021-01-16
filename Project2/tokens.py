@@ -1,5 +1,5 @@
-access_token="1343598281276846083-K80RM0P4DVYhzv6G7Cvb8jIFWS7CX7"
-access_token_secret="iZRzu19pMa5vdeE3uWhjv4euREDrCkhssEAzGYxBCU3QA"
-consumer_key="aRfFwc9apt33YNOC60jCcRjw5"
-consumer_secret= "hpXSvFv1gsOdm8XN5dkpz3cRHdZ5aNeJ3xmJjKYMJn0E8MmmEU"
+access_token=""
+access_token_secret=""
+consumer_key=""
+consumer_secret= ""
 
