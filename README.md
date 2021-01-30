@@ -7,16 +7,16 @@ in the tweets for Barack Obama.
 
 
 Input:
-*TwitterHandle
-*Number of tweets to analyse
+  * TwitterHandle
+  * Number of tweets to analyse
 
 TechStack:
-*Python
-*Pandas
-*Pygal
-*Tweepy
-*Flask
-*Deployed on Heroku
+* Python
+* Pandas
+* Pygal
+* Tweepy
+* Flask
+* Deployed on Heroku
 
 
-Check the project: https://sentiment-analysis-country.herokuapp.com/
+### Check the project: https://sentiment-analysis-country.herokuapp.com/ 
